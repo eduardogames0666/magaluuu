@@ -1,0 +1,28 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.magazineluiza.com.br	TRUE	/	FALSE	1999999999	pdp_desk_b2c_mixer	1
+www.magazineluiza.com.br	TRUE	/	FALSE	1999999999	__uzma	cbd72646-6480-4681-adb3-490236c3b5e1
+www.magazineluiza.com.br	TRUE	/	FALSE	1999999999	__uzmb	1748750468
+www.magazineluiza.com.br	TRUE	/	FALSE	1999999999	__uzme	0135
+www.magazineluiza.com.br	TRUE	/	FALSE	1999999999	__uzmc	780591049508
+www.magazineluiza.com.br	TRUE	/	FALSE	1999999999	__uzmd	1748750468
+www.magazineluiza.com.br	TRUE	/	FALSE	1999999999	SameSite	Lax
+tiktok.com	TRUE	/	FALSE	1999999999	_ttp	2xtHVSGKmjOG6Os2sNdkdVbw5Gu
+analytics.tiktok.com	TRUE	/	FALSE	1999999999	SameSite	None
+magazineluiza.com.br	TRUE	/	FALSE	1999999999	noe_freight	AUTO
+magazineluiza.com.br	TRUE	/	FALSE	1999999999	noe_hub_shipping_enabled	1
+magazineluiza.com.br	TRUE	/	FALSE	1999999999	FCCDCF	1
+magazineluiza.com.br	TRUE	/	FALSE	1999999999	ml2_redirect_8020	0
+magazineluiza.com.br	TRUE	/	FALSE	1999999999	FCNEC	1
+magazineluiza.com.br	TRUE	/	FALSE	1999999999	mixer_shipping	AUTO
+magazineluiza.com.br	TRUE	/	FALSE	1999999999	mixer_hub_shipping	true
+magazineluiza.com.br	TRUE	/	FALSE	1999999999	toggle_wishlist	false
+magazineluiza.com.br	TRUE	/	FALSE	1999999999	toggle_pdp_seller_score	true
+magazineluiza.com.br	TRUE	/	FALSE	1999999999	toggle_vwo	true
+magazineluiza.com.br	TRUE	/	FALSE	1999999999	toggle_agatha	true
+magazineluiza.com.br	TRUE	/	FALSE	1999999999	toggle_ads	true
+magazineluiza.com.br	TRUE	/	FALSE	1999999999	toggle_new_service_page	true
+magazineluiza.com.br	TRUE	/	FALSE	1999999999	toggle_quick_click	false
+magazineluiza.com.br	TRUE	/	FALSE	1999999999	enable_fallback_banner	0
+.magazineluiza.com.br	TRUE	/	FALSE	1999999999	MLPARCEIRO	0
+
